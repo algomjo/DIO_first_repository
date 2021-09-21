@@ -1,3 +1,3 @@
-# Rpositório DIO
-## Link GIThub
+# Repositório DIO
+## Link GitHub
 [GitHub](https://github.com/)
